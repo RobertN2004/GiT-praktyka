@@ -1,3 +1,3 @@
 # GIT DEVELOP
-This is a branch dedicated to the pages I'm currently working on.
+This is a branch dedicated to the projects I'm currently working on.
 
