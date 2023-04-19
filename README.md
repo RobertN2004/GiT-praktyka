@@ -1,1 +1,2 @@
-# GiT-praktyka
+#### GiT-praktyka
+Git Praktyka
